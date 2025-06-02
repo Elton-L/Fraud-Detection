@@ -18,9 +18,6 @@ To develop a machine learning-based fraud detection model that accurately identi
 - High precision to avoid flagging legitimate transactions.
 - F1 Score (harmonic mean of precision and recall) ≥ 70%.
 
-## Background
-Before pursuing the Data Analytics Bootcamp (DAB), I worked as an Operations Executive in the insurance industry for five years. My role involved ensuring accurate policy issuance, verifying data integrity, participating in User Acceptance Testing (UAT), and streamlining processes. Collaborating with IT and Business Analysts to enhance systems and resolve defects deepened my interest in data, motivating me to take the DAB course to advance my skills in data analytics and machine learning.
-
 ## Data Sources and Definitions
 The model was trained on a synthetic dataset from [PaySim on Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1), mimicking one month of online transactions with approximately **6.3 million rows**. The dataset is highly imbalanced, with only **8,213 fraud cases (~0.13% fraud rate)**. It includes transaction details such as amount, account balances, and types (e.g., CASH_OUT, TRANSFER).
 
