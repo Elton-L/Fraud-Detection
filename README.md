@@ -121,5 +121,3 @@ The model was trained on a synthetic dataset from [PaySim on Kaggle](https://www
 - **SQL**: Data querying and management.
 - **Tableau**: Interactive visualizations and dashboards.
 - **Libraries**: Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn.
-
-## Repository Structure
